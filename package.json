@@ -1,0 +1,25 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "React js",
+  "main": "(React1.js)",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshuMishra9/ReactLearining.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "anshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshuMishra9/ReactLearining/issues"
+  },
+  "homepage": "https://github.com/AnshuMishra9/ReactLearining#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
